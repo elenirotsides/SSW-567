@@ -28,9 +28,11 @@ class TestTriangle(unittest.TestCase):
         self.assertNotEqual(triangle.classify_triangle(3, 3, 12), 'Right')
 
     def test_valid_triangle(self):
+        # testing invalid arguments
         self.assertEqual(triangle.classify_triangle(0, 2, 3), 'Not Valid')
         self.assertEqual(triangle.classify_triangle(4, 0, 3), 'Not Valid')
         self.assertEqual(triangle.classify_triangle(9, 10, 0), 'Not Valid')
+        self.assertEqual(triangle.classify_triangle(-3, -4, -10), 'Not Valid')
         self.assertNotEqual(triangle.classify_triangle(9, 10, 0), 'Scalene')
 
     def test_c_is_greater(self):
