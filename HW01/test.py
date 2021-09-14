@@ -34,8 +34,9 @@ class TestTriangle(unittest.TestCase):
         self.assertNotEqual(triangle.classify_triangle(9, 10, 0), 'Scalene')
 
     def test_c_is_greater(self):
-        self.assertEqual(triangle.classify_triangle(9, 2, 4), 'Not Valid')
-        self.assertNotEqual(triangle.classify_triangle(9, 2, 4), 'Scalene')
+        # this is a test case for testing that a right triangle's c is the longest side
+        self.assertEqual(triangle.classify_triangle(5, 3, 4), 'Not Valid')
+        self.assertNotEqual(triangle.classify_triangle(5, 3, 4), 'Scalene')
 
 
 if __name__ == '__main__':
