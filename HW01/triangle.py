@@ -1,6 +1,13 @@
-# intenionally introduce bugs so that I can test for them in test.py
+"""
+Intenionally introduced bugs so that I can test for them in test.py
+
+@author: Eleni Rotsides
+I pledge my honor that I have abided by the Stevens honor system.
+"""
+
 
 def classify_triangle(a, b, c):
+    """Given 3 triangle side lengths, this funtion identifies what type of triangle it is"""
     if(a == b and b == c and c == a):
         return 'Equilateral'
     elif(a * a + b * b == c * c):
