@@ -1,5 +1,7 @@
 # Triangle HW02a
 
+[![Build Status](https://app.travis-ci.com/elenirotsides/SSW-567.svg?branch=main)](https://app.travis-ci.com/elenirotsides/SSW-567)
+
 ## Report
 
 ### Assignment Description

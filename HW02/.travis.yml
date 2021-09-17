@@ -4,4 +4,4 @@ python:
 
 # command to run tests
 script:
-    - python -u "HW02/TestTriangle.py"
+    - python -m unittest TestTriangle.py
