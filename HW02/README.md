@@ -1,6 +1,6 @@
 # Triangle HW02a
 
-[![build status of master](https://travis-ci.org/elenirotsides/SSW-567.svg?branch=master)](https://travis-ci.org/elenirotsides/SSW-567)
+[![build status of master](https://travis-ci.org/elenirotsides/SSW-567.svg?branch=master)](https://travis-ci.org/elenirotsides/SSW-567/tree/main/HW02)
 
 ## Report
 
