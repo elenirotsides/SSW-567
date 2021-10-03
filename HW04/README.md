@@ -1,0 +1,5 @@
+[![Build Status](https://app.travis-ci.com/elenirotsides/SSW-567.svg?branch=main)](https://app.travis-ci.com/elenirotsides/SSW-567)
+
+# Reflection
+
+When I was designing the code with the tester in mind, I decided that it would be important to return a dictionary of repos with their commit counts. This would provide testers with easy access to the data without having to scrape the contents of a print statement. I will admit, I was a bit stumped in the beginning when I was trying to think how I could make my code easily testable. This exercise is really important because often times, developers do not think to code with the tester in mind. Coding with this approach allows developers to write better code because it helps them to think outside the box in terms of how their solution will be applied, or what their solution is actually doing in retrospect. The biggest challenge I faced was constantly hitting the rate limit on the api. I even authenticated to gain more requests, but I somehow ran out of those as well. That was the biggest challenge and frustration!
