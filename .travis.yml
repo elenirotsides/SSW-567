@@ -1,7 +1,8 @@
 language: python
 python:
     - '3.9'
-
+install:
+    - pip install requests
 # command to run tests
 script:
-    - python -u  "HW02/TestTriangle.py"
+    - python -u  "HW04/TestGithubAPI.py"
