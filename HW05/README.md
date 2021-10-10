@@ -2,7 +2,7 @@
 
 ## Summary
 
-I found this exercise to be helpful in seeing how the code I've written could be improved. My code coverage reached 100% coverage on the inital run of the tool `Coverage.py` on `TestTriangle.py`, so I didn't need to add any additional tests, but I did have a lot to fix after my initial run of `Pylint`.
+I found this exercise to be helpful in seeing how the code I've written could be improved. My code coverage reached 100% coverage on the inital run of the tool `Coverage.py` on `TestTriangle.py`, so I didn't need to add any additional tests, but I did have a lot to fix after my initial run of `Pylint`. I found the linting issues to be harder to fix mainly because I had to figure out what it was that pylint was upset at. It look me 7 tries to get all those errors to go away. Overall, both tools were really cool to use and useful; I will definetely use them in my personal projects now!
 
 ## Detailed Analysis
 
