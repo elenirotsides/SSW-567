@@ -1,0 +1,7 @@
+************* Module triangle_program
+triangle_program.py:43:0: C0301: Line too long (103/100) (line-too-long)
+triangle_program.py:47:4: R1705: Unnecessary "elif" after "return" (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 8.33/10 (previous run: 7.50/10, +0.83)
+

@@ -1,0 +1,14 @@
+************* Module Triangle
+Triangle.py:15:91: C0303: Trailing whitespace (trailing-whitespace)
+Triangle.py:16:19: C0303: Trailing whitespace (trailing-whitespace)
+Triangle.py:1:0: C0103: Module name "Triangle" doesn't conform to snake_case naming style (invalid-name)
+Triangle.py:13:0: C0103: Function name "classifyTriangle" doesn't conform to snake_case naming style (invalid-name)
+Triangle.py:13:0: C0103: Argument name "a" doesn't conform to snake_case naming style (invalid-name)
+Triangle.py:13:0: C0103: Argument name "b" doesn't conform to snake_case naming style (invalid-name)
+Triangle.py:13:0: C0103: Argument name "c" doesn't conform to snake_case naming style (invalid-name)
+Triangle.py:51:4: R1705: Unnecessary "elif" after "return" (no-else-return)
+Triangle.py:13:0: R0911: Too many return statements (8/6) (too-many-return-statements)
+
+------------------------------------------------------------------
+Your code has been rated at 4.38/10 (previous run: 4.38/10, +0.00)
+

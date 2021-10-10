@@ -1,0 +1,10 @@
+************* Module Triangle_program
+Triangle_program.py:34:0: C0301: Line too long (194/100) (line-too-long)
+Triangle_program.py:41:0: C0301: Line too long (103/100) (line-too-long)
+Triangle_program.py:1:0: C0103: Module name "Triangle_program" doesn't conform to snake_case naming style (invalid-name)
+Triangle_program.py:13:0: C0103: Function name "classify_Triangle" doesn't conform to snake_case naming style (invalid-name)
+Triangle_program.py:45:4: R1705: Unnecessary "elif" after "return" (no-else-return)
+
+-----------------------------------
+Your code has been rated at 5.83/10
+

@@ -1,0 +1,6 @@
+************* Module triangle_program
+triangle_program.py:43:4: R1705: Unnecessary "elif" after "return" (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 9.17/10 (previous run: 9.17/10, +0.00)
+
