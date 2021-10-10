@@ -7,6 +7,7 @@ I found this exercise to be helpful in seeing how the code I've written could be
 ## Detailed Analysis
 
 **1.** Analyzed: https://github.com/elenirotsides/SSW-567/tree/main/HW02
+
 **2.** Static code analyzer tool I used: `Pylint`
 
 Output of initial run:
@@ -46,11 +47,13 @@ TOTAL                62      0   100%
 **5.1.** Static Code analysis report on original program:
 
 ![static code analysis on original program](/HW05/pylint_initial.png)
+
 _I redirected the output of the pylint results into a txt file._
 
 **5.2** Code coverage report on original program:
 
 ![code coverage report on original program](/HW05/coverage_initial.png)
+
 _I redirected the output of the code coverage results into a txt file._
 
 You can also view an enhanced version of this report by running `HW05/htmlcov/index.html` in your browser.
@@ -58,21 +61,27 @@ You can also view an enhanced version of this report by running `HW05/htmlcov/in
 **5.3.** Static Code analysis report after changes have been applied:
 
 First attempt:
+
 ![code coverage report on first attempt](/HW05/pylint_second_results.png)
 
 Second attempt:
+
 ![code coverage report on second attempt](/HW05/pylint_third_results.png)
 
 Third attempt:
+
 ![code coverage report on third attempt](/HW05/pylint_fourth_results.png)
 
 Fourth attempt:
+
 ![code coverage report on fourth attempt](/HW05/pylint_fifth_results.png)
 
 Fifth attempt:
+
 ![code coverage report on fifth attempt](/HW05/pylint_sixth_results.png)
 
 Sixth attempt:
+
 ![code coverage report on seventh attempt](/HW05/pylint_seventh_results.png)
 
 I had to run pylint many times because I wasn't successful the first time. It took me 7 tries to get my code up to par!
